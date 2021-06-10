@@ -13,3 +13,9 @@ console.log(`Meu nome é ${primeiroNome} ${sobremome}`); // jeito mais legivel
 const nomeCompleto = primeiroNome + sobremome; // atribuindo nome e sobrenome a variavel nome completo, assim é aceito a const nas variaveis 
 
 console.log(nomeCompleto);
+
+let Idade; // declarando uma variavel
+Idade = 24;
+Idade = Idade+1;
+
+console.log(Idade);
