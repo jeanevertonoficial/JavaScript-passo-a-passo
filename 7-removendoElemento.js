@@ -1,11 +1,5 @@
 console.log(`Trabalhando com Lista Removendo Elemento`);
 
-// comentar varias linha comando ctrl + k + c 
-// tirar o comentario de varias linhas ctrl + k + u
-// const salvador = ;
-// const SaoPaulo = ;
-// const rioDeJaneiro = ;
-
 //lista Array 
 const listaDeDestinos = new Array(
     `Salvador`,
